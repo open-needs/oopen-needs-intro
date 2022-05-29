@@ -1,0 +1,7 @@
+sphinx
+sphinxcontrib.needs
+sphinxcontrib-plantuml
+sphinx-revealjs
+sphinxcontrib-needs
+sphinxcontrib-sadisplay
+sphinxcontrib-programoutput

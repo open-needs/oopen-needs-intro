@@ -40,7 +40,7 @@ Recap Sphinx-Needs
 
 Sphinx-Needs Community
 ~~~~~~~~~~~~~~~~~~~~~~
-* > 5 contributors
+* > 15 contributors
 * > 650 commits
 * ~ 1.000 downloads per day
 * Used in Automotive Industry

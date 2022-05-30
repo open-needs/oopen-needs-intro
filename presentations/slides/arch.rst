@@ -1,6 +1,12 @@
 Open-Needs Toolchain
 --------------------
 
+Main use case
+~~~~~~~~~~~~~
+
+.. image:: /_static/tool_use_case.png
+   :width: 50%
+
 Environment
 ~~~~~~~~~~~
 

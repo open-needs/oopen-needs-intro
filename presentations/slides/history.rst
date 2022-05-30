@@ -17,7 +17,7 @@ Recap Sphinx-Needs
    :tags: introduction
    :status: open
 
-   It allows **Software teams** to maintain **Requirements** and Co. in *Sphinx based docs-as-code* projects.
+   It allows **Software teams** to maintain **requirements** and co. in *Sphinx based docs-as-code* projects.
 
    .. image:: /_static/sphinx-needs-logo-bg.svg
       :width: 20%
@@ -25,7 +25,7 @@ Recap Sphinx-Needs
       :target: https://sphinxcontrib-needs.readthedocs.io/en/latest/
 
    The data can be presented in **tables**, **flow-** and **piecharts**. Exported to **json files**.
-   Synchronized with external services like Jira, Azure Dev ops, and more.
+   Synchronized with external services like Jira, Azure DevOps, and more.
 
 
 .. spec:: Example spec
@@ -47,4 +47,4 @@ Sphinx-Needs Community
 * Supports SW development projects with
 
   * > 1.000 engineers
-  * > 100.000 Reqs, Specs, Tests, ...
+  * > 100.000 reqs, specs, tests, ...

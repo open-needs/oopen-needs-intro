@@ -6,7 +6,7 @@ Features
 
 * Store and provide elements ✔
 * Validate elements ✔
-* Authentication & Authorization ✔
+* Authentication & authorization ✔
 * Store rule sets 🗒
 * Basic analysis 🗒
 * Sphinx-Needs integration 🗒
@@ -14,12 +14,12 @@ Features
 
 Short-term scenario
 ~~~~~~~~~~~~~~~~~~~
-**Use Sphinx-Needs + Export.**
+**Use Sphinx-Needs + export.**
 
 * Supports docs-as-code based projects
 * Uses Open-Needs to store objects
 
-Users: SW Developers
+Users: SW developers
 
 Mid-term scenario
 ~~~~~~~~~~~~~~~~~
@@ -27,7 +27,7 @@ Mid-term scenario
 
 Supports validation, analysis and data exchange.
 
-Users: SW Developers, Team leads and Managers
+Users: SW developers, team leaders and managers
 
 Long-term scenario
 ~~~~~~~~~~~~~~~~~~

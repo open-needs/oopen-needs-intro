@@ -18,6 +18,7 @@ requirements or specifications.
 
 .. include:: slides/history.rst
 .. include:: slides/arch.rst
+.. include:: slides/screenshots.rst
 .. include:: slides/roadmap.rst
 
 
